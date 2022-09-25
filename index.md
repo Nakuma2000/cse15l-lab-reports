@@ -1,6 +1,6 @@
 # Hello, World!
  
- >Check me out on GitHub: [Link](https://github.com/Nakuma2000/cse15l-lab-reports)
+ >[Check me out on GitHub](https://github.com/Nakuma2000/cse15l-lab-reports)
  
  *This* is my website.
  
