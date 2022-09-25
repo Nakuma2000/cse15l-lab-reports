@@ -6,7 +6,7 @@ List of lab reports:
 * [Lab Report 1](lab-report-1-week-0.md)
 
 --- 
- *This* is my website.
+ My name is Nathan. *This* is my website.
 
  I am currently tesing *live formatting* on **VSCode**
  
