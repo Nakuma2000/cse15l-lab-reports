@@ -4,4 +4,5 @@
  
  *This* is my website.
  
- It is unique to **me**.
+ **Please look at this neat picture:**
+ ![Image](https://www.kindpng.com/picc/m/96-962116_triangle-optical-illusion-png-transparent-png.png)
