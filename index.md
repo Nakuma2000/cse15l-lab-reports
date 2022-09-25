@@ -4,5 +4,5 @@
  
  *This* is my website.
  
- **Please look at this neat optical illusion:**
+ **Please look at this optical illusion:**
  ![Image](https://www.kindpng.com/picc/m/96-962116_triangle-optical-illusion-png-transparent-png.png)
