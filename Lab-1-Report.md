@@ -34,7 +34,7 @@ If you are having trouble finding your account name or need to reset your passwo
  
  This will take you to the UCSD website where you can search up your course-specific username and reset your password.
 
- ## Trying Some Commands
+## Trying Some Commands
  Now that you are connected to the remote server, you will be able to run commands remotely by simply inputting them into the terminal. Running commands such as `ls`, `cd`, `pwd`, `mkdir` are shown below:
 
  ![Image](lab1pics/cmd1.PNG)
