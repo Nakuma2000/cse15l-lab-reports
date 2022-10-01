@@ -43,7 +43,7 @@ If you are having trouble finding your account name or need to reset your passwo
 Then try running the same commands locally as well. Run the command `exit` to disconnect from the remote server. Below are commands run on my local computer:
 
 ![Image](lab1pics/cmd2.PNG)
-* Here `ls` is ran on my local computer, hence 'perl5' is not the only directory, but instead all the directories present on my local computer.
+* Here, `ls` is ran on my local computer, hence 'perl5' is not the only directory, but instead all the directories present on my local computer.
 
 ## Moving Files With `scp`
 The command `scp` will copy files from your computer to a remote computer. 
