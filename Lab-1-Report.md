@@ -84,6 +84,28 @@ After this setup, connect to the remote server and follow these commands:
 
 After this, you will only need to input the key that you entered to connect to the remote server!
 
+## Making Remote Running Even More Pleasant
+
+Using what we have learned, we are able to recall and combine commands in the terminal to reduce the amount of keystrokes needed to optimize the process of copying and running programs in the remote server.
+
+Techniques used include:
+* running several commands in one line
+* recalling commans using the up-arrow key
+* running commands in quotes at the end of an `ssh` command to directly run it on the remote server
+
+![Image](lab1pics/part8.PNG)
+
+Above is my optimized process. With the commands `scp WhereAmI.java cs15lfa22$$@ieng6.ucsd.edu:~/` and `ssh cs15lfa22$$@ieng6.ucsd.edu "javac WhereAmI.java; java WhereAmI"` already ran in the terminal, we are able to get the process under 10 total keystrokes:
+
+1) up-arrow key to `ssh ...`
+2) up-arrow key to `scp ...`
+3) enter key
+4) up-arrow key to `scp ...`
+5) up-arrow key to `ssh ...`
+6) enter key
+
+This process doesnt account for certain machines where passwords or passphrases must be entered -- see above section on `ssh keys` to solve.
+
 ### That's it for this lab report, I hope this is helpful. 
 
 ### - Nathan

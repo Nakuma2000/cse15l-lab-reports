@@ -1,5 +1,5 @@
 >[Return to homepage](index.md)
-# Lab Report 1
+# Lab Report 0
 Matevossian Nathan, 9/24/2022, cse15l
 
 ---
