@@ -1,7 +1,7 @@
 >[Return to homepage](index.md)
 # Lab 2 Report
 ### Hello!
-This page will serve as a summarization of Lab 1 for this course. I will be documenting my process of completing this lab below.
+This page will serve as a summarization of Lab 2 for this course. I will be documenting my process of completing this lab below.
 
 ## Part 1 - Search Engine
 Below is my codeblock for SearchEngine.java, a program that functions on a server to retain a list of words that can receive both amendments and search queries:
