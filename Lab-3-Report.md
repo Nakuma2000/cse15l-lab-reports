@@ -89,7 +89,7 @@ technical/plos/pmed.0020246.txt:388:            (d) The creation of conditions w
 ~~~
 In this example, the patter `*/*/*.txt` is passed to `grep` to search through multiple files. the `-n` option is useful in this case by providing more specified information that would make a search for the given string easier; `grep -n` displays the line numbers the string appears in for every file.
 
-## Part 4 - `grep -w`
+## Part 4 - `grep -w/c`
 
 The `-w` option for `grep` will match the whole word; appearances of the text string within another word are omitted.
 
