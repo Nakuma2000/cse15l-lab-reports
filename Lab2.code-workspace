@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "Lab2"
+		},
+		{
+			"path": "Lab1"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../wavelet"
+		},
+		{
+			"path": "../lab3"
+		}
+	],
+	"settings": {}
+}
