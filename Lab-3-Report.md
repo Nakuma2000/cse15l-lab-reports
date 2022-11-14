@@ -4,7 +4,7 @@
 This page will serve as a report for Week 5 of cse15L.
 
 ## Part 1 - `grep` Command-Line Options
-In this report we will be exploring three different command-line options for the `grep` command: `-A/B/C`, `2`, `3`. Three examples of each of these options and their inputs will be displayed and explained. Each example is used on files and directories from `./technical`.
+In this report we will be exploring three different command-line options for the `grep` command: `-A/B/C`, `-n`, `-w/c`. Three examples of each of these options and their inputs will be displayed and explained. Each example is used on files and directories from `./technical`.
 
 ## Part 2 - `grep -A/B/C n`
 I am grouping three options for the first set of examples as they are very similar. \
@@ -89,7 +89,7 @@ technical/plos/pmed.0020246.txt:388:            (d) The creation of conditions w
 ~~~
 In this example, the patter `*/*/*.txt` is passed to `grep` to search through multiple files. the `-n` option is useful in this case by providing more specified information that would make a search for the given string easier; `grep -n` displays the line numbers the string appears in for every file.
 
-## Part 4 - `grep -w`
+## Part 4 - `grep -w/c`
 
 The `-w` option for `grep` will match the whole word; appearances of the text string within another word are omitted.
 
