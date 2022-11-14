@@ -15,26 +15,32 @@ This sequence exceeds 30 keystrokes -- finding a command that would perform the 
 
 ### Initial Code
 ![Image](lab4pics/1-1.PNG)
+
 This is the codeblock before any changes are made using `vim`. The cursor begins at the top left corner.
 
 ### `/start<Enter>`
 ![Image](lab4pics/1-2.PNG)
+
 `/start` will search for the first appearance of the string 'start' and then `<Enter>` will jump to it.
 
 ### `dw`
 ![Image](lab4pics/1-3.PNG)
+
 `d` is a key that deletes text from the code. pairing it with `w`, which jumps one word forward, will delete one whole word. Here, `dw` is used to delete the word `start`, which we navigated to in the previous step.
 
 ### `ibase<Esc>`
 ![Image](lab4pics/1-4.PNG)
+
 `i` will enter `insert mode` where keystrokes change from commands to simply entering text to the codeblock. Entering `base` will input the word where `start` was deleted, and pressing `<Esc>` exits `insert mode`.
 
 ### `n`
 ![Image](lab4pics/1-5.PNG)
+
 The `n` command jumps to the next instance of the previously executed `/` command. Since we searched for `start`, the cursor jumps to the next instance of `start`.
 
 ### `dwibase<Esc>` `ndwibase<Esc>`
 ![Image](lab4pics/1-6.PNG)
+
 In this step, the pattern of deleting `start`, replacing it with `base`, is repeated for the final two instances of `start`. To save, or *write* our changes to the file, we run the command: /
 ### `:w<Enter>`
 `:` will tell vim to take the following keystrokes as input for a command instead of running whichever command the keys are tied to (for `default mode` in `vim`). `<Enter>` inputs the `:w`, or `write` command to finalize our changes.
