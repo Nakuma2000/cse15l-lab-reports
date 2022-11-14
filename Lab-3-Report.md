@@ -1,5 +1,5 @@
 >[Return to homepage](index.md)
-# Lab 3 Report
+# Lab Report 3
 ### Hello!
 This page will serve as a report for Week 5 of cse15L.
 

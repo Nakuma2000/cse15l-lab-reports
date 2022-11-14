@@ -5,4 +5,4 @@ Matevossian Nathan, 9/24/2022, cse15l
 ---
 Here is a screenshot for the report:
 
-![Image](lab-1-screenshot.png)
+![Image](lab0pics/lab-0-screenshot.png)

@@ -1,5 +1,5 @@
 >[Return to homepage](index.md)
-# Lab 2 Report
+# Lab Report 2
 ### Hello!
 This page will serve as a summarization of Lab 2 for this course. I will be documenting my process of completing this lab below.
 

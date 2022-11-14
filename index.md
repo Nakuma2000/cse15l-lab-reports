@@ -3,10 +3,11 @@
  >[Check me out on GitHub](https://github.com/Nakuma2000/cse15l-lab-reports)
  ---
 List of lab reports:
-* [Lab Report 0](lab-report-1-week-0.md)
+* [Lab Report 0](lab-0-Report.md)
 * [Lab Report 1](Lab-1-Report.md)
 * [Lab Report 2](Lab-2-Report.md)
 * [Lab Report 3](Lab-3-Report.md)
+* [Lab Report 4](Lab-4-Report.md)
 
 --- 
  My name is Nathan. *This* is my website.
