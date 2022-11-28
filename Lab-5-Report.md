@@ -49,9 +49,10 @@ echo $?
 ~~~
 
 ## Part 2 - Running on student submissions
-Below are screenshots of the grade.sh script running on student submissions and their reported grade as loaded in the browser.
+Below are screenshots of the grade.sh script running on student submissions and their reported grade as loaded in the browser:
 
-## Part 3 - Trade of `grade.sh`
+## Part 3 - Trace of `grade.sh`
+Here we will take one of the graded examples above and trace the output (standard output and standard error) and whether or not the return code was zero or non-zero.
 
 ### That's it for this lab report, I hope this is helpful. 
 
