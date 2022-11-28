@@ -8,6 +8,7 @@ List of lab reports:
 * [Lab Report 2](Lab-2-Report.md)
 * [Lab Report 3](Lab-3-Report.md)
 * [Lab Report 4](Lab-4-Report.md)
+* [Lab Report 5](Lab-5-Report.md)
 
 --- 
  My name is Nathan. *This* is my website.
